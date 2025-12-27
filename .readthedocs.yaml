@@ -1,13 +1,14 @@
+# .readthedocs.yaml
 version: 2
 
 sphinx:
   configuration: conf.py
 
 python:
-  version: 3.11  # puoi usare anche 3.10 se vuoi maggiore stabilità
+  version: 3.11
   install:
     - requirements: requirements.txt
 
 build:
-  image: latest  # usa l'immagine più aggiornata di RTD
+  image: latest
 
