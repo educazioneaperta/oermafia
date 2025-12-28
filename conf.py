@@ -15,7 +15,11 @@ author = 'Educazione Aperta'
 
 extensions = [
     'myst_parser',
+    'sphinxcontrib_bibtex',
 ]
+
+# Configurazione bibliografia
+bibtex_bibfiles = ['riferimenti.bib']
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
