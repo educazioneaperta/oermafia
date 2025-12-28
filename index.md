@@ -13,11 +13,8 @@ In quanto OER, può essere liberamente usato, riadattato e ridistribuito, rispet
 
 
 ```{toctree}
-:maxdepth: 2
+:maxdepth: 1
 :caption: Indice 
-
-
-
 
 presentazione
 obiettivi
