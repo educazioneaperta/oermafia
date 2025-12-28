@@ -70,7 +70,7 @@ La particolarità della Banda della Magliana è nel suo rapporto con i gruppi ev
 
 La banda entrò in crisi anche a causa di conflitti interni e grazie alla collaborazione con la giustizia di alcuni membri, che consentì di impiantare nel 1995 il maxiprocesso che ha condannato a pene severe i leader storici.
 
-Più recentemente è emerso il clan dei Casamonica, una famiglia di etnia rom proveniente dall’Abruzzo e presente nel Lazio fin dalla fine degli anni Trenta. Dediti in origine al commercio dei cavalli, i Casamonica si sono poi integrati nella criminalità locale, anche grazie alla collaborazione con la banda della Magliana. Quello che gli investigatori chiamano “arcipelago Casamonica” ({cite}`cross2021`, p. 53) è costituito da diversi gruppi autonomi, uniti dal legame famigliare ed etnico anche attraverso strategie matrimoniali.
+Più recentemente è emerso il clan dei Casamonica, una famiglia di etnia rom proveniente dall’Abruzzo e presente nel Lazio fin dalla fine degli anni Trenta. Dediti in origine al commercio dei cavalli, i Casamonica si sono poi integrati nella criminalità locale, anche grazie alla collaborazione con la banda della Magliana. Quello che gli investigatori chiamano “arcipelago Casamonica” ({cite:p}`cross2021`, p. 53) è costituito da diversi gruppi autonomi, uniti dal legame famigliare ed etnico anche attraverso strategie matrimoniali.
 
 ```{admonition} Estetica mafiosa 
 :class: note
