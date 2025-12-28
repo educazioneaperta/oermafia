@@ -1,9 +1,5 @@
 # Studiare le mafie
 
-```{margin} Il curatore
-Antonio Vigilante ha un dottorato di ricerca in Dinamiche formative e educazione alla politica. Il suo ultimo libro è *Senza cattedra. La scuola possibile* (Loescher, 2026). Ha un blog personale all'indirizzo http.//antoniovigilante.pages.dev
-```
-
 *Un percorso per il Liceo delle Scienze Umane e il Liceo Economico-Sociale*
 
 Questo percorso è un Risorsa Educativa Aperta (OER) pensata come integrazione dei manuali di Scienze Umane, nei quali il tema della mafia è quasi del tutto assente.   
@@ -24,3 +20,4 @@ obiettivi
 4_le_mafie_italiane_sulla_scena_internazionale
 5_i_modelli_organizzativi
 bibliografia
+il_curatore
