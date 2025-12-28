@@ -15,7 +15,7 @@ author = 'Educazione Aperta'
 
 extensions = [
     'myst_parser',
-    'ssphinxcontrib.bibtex',
+    'sphinxcontrib.bibtex',
 ]
 
 # Configurazione bibliografia
