@@ -1,0 +1,33 @@
+/* Centra il contenitore principale e limita la larghezza */
+.wy-nav-content {
+    max-width: 1000px !important; /* Larghezza ideale per la lettura */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    background: white !important;
+    box-shadow: 0 0 15px rgba(0,0,0,0.05); /* Ombra leggera per staccarlo dallo sfondo */
+}
+
+/* Colora lo sfondo esterno per far risaltare il 'box' bianco */
+.wy-nav-content-wrap {
+    background: #f0f2f4 !important;
+}
+
+/* Opzionale: sistema i margini interni su schermi piccoli */
+@media screen and (max-width: 768px) {
+    .wy-nav-content {
+        margin: 0 !important;
+        max-width: none !important;
+    }
+}
+
+/* Forza il titolo su due righe */
+.wy-side-nav-search > a {
+    display: block !important;
+    white-space: normal !important;
+    line-height: 1.2 !important;
+}
+
+/* Opzionale: regola la dimensione del font */
+.wy-side-nav-search > a {
+    font-size: 90%;
+}
