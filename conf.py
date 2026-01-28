@@ -20,7 +20,6 @@ author = 'Educazione Aperta'
 extensions = [
     'myst_parser',
     'sphinxcontrib.bibtex',
-    'sphinx_rtd_theme',
 ]
 
 # Configurazione bibliografia
@@ -38,7 +37,8 @@ html_static_path = ['_static']
  
 
 # 1. Impostazioni del logo
-html_logo = " "
+html_logo = None
+
 
 # 2. Rimuovi la scritta accanto al logo
 html_theme_options = {
