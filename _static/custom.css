@@ -6,44 +6,50 @@
     font-size: 90%;
 }
 
-/* Sfondo grigio per tutto */
-body {
-    background: #e3e3e3;
-}
+/* Sfondo grigio per tutto - SOLO su schermi grandi */
+@media screen and (min-width: 769px) {
+    body {
+        background: #e3e3e3;
+    }
 
-/* Wrapper esterno centrato */
-.wy-grid-for-nav {
-    max-width: 1400px;
-    margin: 0 auto;
-    position: relative;
-}
-
-/* Sidebar: passa da fixed a absolute per seguire il parent */
-.wy-nav-side {
-    position: absolute !important;
-    left: 0 !important;
-}
-
-/* Contenuto: aggiungi margine sinistro per la sidebar */
-.wy-nav-content-wrap {
-    margin-left: 300px !important; /* larghezza della sidebar */
-}
-
-/* Per schermi piccoli */
-@media screen and (max-width: 768px) {
+    /* Wrapper esterno centrato */
     .wy-grid-for-nav {
-        max-width: none;
+        max-width: 1400px;
+        margin: 0 auto;
+        position: relative;
+    }
+
+    /* Sidebar: passa da fixed a absolute per seguire il parent */
+    .wy-nav-side {
+        position: absolute !important;
+        left: 0 !important;
+    }
+
+    /* Contenuto: aggiungi margine sinistro per la sidebar */
+    .wy-nav-content-wrap {
+        margin-left: 300px !important;
+        background: #e3e3e3 !important;
+    }
+}
+
+/* Mobile: ripristina il comportamento normale */
+@media screen and (max-width: 768px) {
+    body {
+        background: white;
     }
     
     .wy-nav-side {
         position: fixed !important;
+        left: 0 !important;
     }
     
     .wy-nav-content-wrap {
-        margin-left: 300px !important;
+        margin-left: 0 !important;
+        background: white !important;
     }
     
-    body {
-        background: white;
+    .wy-grid-for-nav {
+        max-width: none;
+        position: static;
     }
 }
