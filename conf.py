@@ -2,17 +2,14 @@
 #
 # For the full list of built-in configuration values, see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
-
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
-
 project = 'OER Educazione Aperta<br>Studiare le mafie'
 copyright = '2025, Educazione Aperta'
 author = 'Educazione Aperta'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
-
 extensions = [
     'myst_parser',
     'sphinxcontrib.bibtex',
@@ -20,30 +17,26 @@ extensions = [
 
 # Configurazione bibliografia
 bibtex_bibfiles = ['riferimenti.bib']
-
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
-
 language = 'it'
 
 # -- Options for HTML output -------------------------------------------------
-
 html_theme = "sphinx_rtd_theme"
 html_static_path = ['_static']
-
 html_css_files = [
     'custom.css',
 ]
- 
+
+# Impostazioni del logo
+html_logo = None
+
+# UNICA definizione di html_theme_options (unisce tutte le opzioni)
 html_theme_options = {
-    # Link al repository
-    'vcs_pageview_mode': 'view',  # o 'edit' se vuoi il link per editare
-    
-    # Altri link utili nella sidebar destra
-    'display_version': True,  # Mostra la versione
-    'prev_next_buttons_location': 'bottom',  # Posizione dei bottoni prev/next
-    
-    # Altre opzioni di navigazione
+    'logo_only': False,
+    'display_version': True,
+    'vcs_pageview_mode': 'view',
+    'prev_next_buttons_location': 'bottom',
     'style_external_links': False,
     'collapse_navigation': False,
     'sticky_navigation': True,
@@ -54,25 +47,9 @@ html_theme_options = {
 
 # Configura il repository (necessario per i link)
 html_context = {
-    'display_github': True,  # Per GitHub
+    'display_github': True,
     'github_user': 'educazioneaperta',
     'github_repo': 'oermafia',
-    'github_version': 'main',  # o 'master'
-    'conf_py_path': '/docs/',  # percorso del conf.py nel repo
+    'github_version': 'main',
+    'conf_py_path': '/docs/',
 }
-
-# 1. Impostazioni del logo
-html_logo = None
-
-
-# 2. Rimuovi la scritta accanto al logo
-html_theme_options = {
-    'logo_only': False,
-    'display_version': False,
-}
-
-# 3. UNICA funzione setup (unifica CSS e JS qui)
-def setup(app):
-    app.add_css_file('custom.css')
-
-
