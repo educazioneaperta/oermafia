@@ -1,0 +1,61 @@
+# 9. Aspetti culturali
+
+## 9.1. La religione
+
+Nelle città siciliane le festività religiose, in particolare quelle legate alla Madonna, sono un elemento centrale dell’identità ed avvengono con enorme affluenza popolare. Tali sono, ad esempio, il Varo dell’Assunta di Messina, la Festa di Sant’Agata a Catania e la Festa dei Gigli a Nola. Si tratta di feste che richiedono una organizzazione lunga e complessa nella quale significativa è l’infiltrazione delle famiglie mafiose. Il prestigio particolare dell’evento fa sì che esso sia sfruttato dai mafiosi per mostrare alla città intera il proprio potere e la presenza per così dire istituzionale, accanto al potere politico e a quello religioso. Dinamiche simili si verificano in Campania; a Napoli, ad esempio, la Festa dei Gigli è spesso usata dai boss della camorra per enfatizzare il proprio ruolo pubblico. Nel 2011 due boss parteciparono alla festa a bordo di un’auto di lusso, acclamati con l’accompagnamento della colonna sonora del film *Il Padrino*. Frequente è anche la pratica dell’*inchino*: la statua portata in processione viene fermata e fatta inchinare in segno di rispetto davanti alla casa del boss locale. Come abbiamo visto, in Calabria il santuario della Madonna di Polsi è il luogo in cui si tiene ogni anno il meeting dei boss della ‘ndrangheta, in occasione della festa della Madonna.
+
+Tutto ciò induce a riflettere sui rapporti tra mafia e Chiesa cattolica, o più in generale tra mafia e cattolicesimo. Alcuni autori scorgono nella mafia la presenza di aspetti culturali del cattolicesimo, messi al servizio di una visione del mondo criminale. Scrive Augusto Cavadi:
+
+È noto che la mafia si è configurata nell'ambito di una cultura “sacrale”, più precisamente “cattolica”, dalla quale ha mutuato (come risulta anche da rivelazioni recenti di affiliati) simboli, linguaggi, valori: il giuramento, l’obbedienza agli anziani, la cura della famiglia, la fedeltà, l'onore, il rispetto della castità delle donne… sono tutti elementi tipici di una mentalità etico-religiosa che, di fatto, nell’Italia meridionale è stata informata dalla versione tridentina del cattolicesimo. (Cavadi 2006, p. 95)
+
+Al di là di questi aspetti culturali si può riflettere su una circostanza storica. Il cattolicesimo è stato un elemento centrale dell’identità meridionale fino all’Unità d’Italia. Come è noto, il processo unitario è stato apertamente contrastato dalla Chiesa cattolica. Un contrasto che è avvenuto soprattutto aizzando contro il nuovo Stato le plebi, disorientate dal crollo del regno borbonico e esasperate da provvedimenti come la leva obbligatoria. Questo malessere, orientato e strumentalizzato, si è espresso nel brigantaggio, ma probabilmente ha influito anche nella costruzione dell’identità delle mafie come organizzazioni politiche radicate nella cultura religiosa del territorio ed in opposizione al potere politico dello Stato.
+
+```{note}
+**Lo sguardo dell’antropologo**
+
+Scene come l’inchino delle statue dei santi davanti ai mafiosi o l’ingresso di personaggio di spicco dei clan sulle note del “Padrino”, come è accaduto nel 2011 alla Festa dei Gigli, suscitano sconcerto nell’opinione pubblica. L’analisi antropologica cerca di restituire ai fenomeni culturali la loro complessità ponendosi dal punto di vista degli attori sociali. Studiando i legami tra festività religiose e organizzazioni mafiose, l’antropologo Berardino Palumbo ha mostrato come la costruzione del consenso da parte dei criminali si incroci con la complessa macchina della festa, che attribuisce un certo status a coloro che occupano posizioni di rilievo all’interno della processione. Diversi aspetti di tali pratiche religiose (come lo sparo dei fuochi d’artificio) hanno anche una evidente connotazione sessuale, come esaltazione della maschilità o dell’aggressività. Come scrive Palumbo, “sono tutte pratiche che, da un lato, contribuiscono a modellare e insieme esibiscono una specifica configurazione della soggettività ‘maschile’; e che, dall’altro, definiscono e rappresentano pubblicamente lo status sociale e i rapporti di forza tra uomini, famiglie e gruppi” (Palumbo, 2020, p. 117).
+```
+
+## 9.2. La musica
+
+Tra il 2000 e il 2005 vengono pubblicati in Germania con il titolo *La musica della mafia* tre cd che raccolgono le canzoni della ‘ndrangheta. Si tratta della musica in dialetto calabrese che tradizionalmente veniva e viene venduta sulle bancarelle, in occasione delle principali festività religiose locali. I canti offrono uno spaccato del mondo mafioso visto dall’interno, con i suoi presunti valori, primo fra tutti l’onore, le sue regole, la condanna senza appello per chi si macchia di *infamità*. Ma non manca una canzone che racconta e celebra l’omicidio del generale Dalla Chiesa, colpevole di essersi messo contro una forza più grande di lui.
+
+Nel Napoletano la celebrazione della camorra non è infrequente nella musica neomelodica. Snobbato nelle regioni del centro-nord, questo genere musicale ha un successo enorme presso le classi popolari delle regioni meridionali. I concerti di cantanti neomelodici possono avere migliaia di spettatori e le vendite, a Napoli e in altre città meridionali, competono con quelle di grandi artisti internazionali. Al tempo stesso i cantanti neomelodici, compresi i più famosi, non si sottraggono all’accompagnamento di cerimonie quali matrimoni e compleanni; e può succedere che si tratti di cerimonie di famiglie appartenenti a clan mafiosi. Ma il rapporto tra cantanti neomelodici e ambienti mafiosi va ben al di là di questo contributo per così dire professionale. Alcuni cantanti neomelodici hanno rapporti stretti con camorristi, di cui in qualche caso esaltano le imprese nelle loro canzoni, e può accadere perfino che loro stessi siano implicati in azioni criminose.
+
+Significativo è il caso della canzone *O’ capoclan* del neomelodico Nello Liberti, che si ritiene commissionata dal boss di Ercolano Vincenzo Oliviero. L’analisi del testo della canzone può essere utile per apprezzare il particolare contributo di questa forma musicale alla creazione di una cultura della mafia. Ecco alcuni passi (tradotti in italiano dal napoletano):
+
+> Il capoclan è un uomo serio
+> non è vero che è cattivo
+> ma ragionare con il cuore non si può.
+> Il capoclan no, non sbaglia,
+> perché per la famiglia
+> lui è il capo e deve saper comandare.
+> [....]
+> Da piccolo non ha potuto mai studiare
+> per sfortuna se ne andò a lavorare
+> si sacrificava per mangiare la sera
+> volle la famiglia nella miseria.
+> Questa cosa non l'ha potuta sopportare
+> se ha sbagliato è stato per necessità
+> certo questo l'ha voluto Dio
+> se ora è un uomo vero in mezzo alla strada.
+> E se ha deciso così
+> il cuore a chi lo deve dare?
+> È capo e sa vivere
+> e noi lo dobbiamo rispettare.
+
+La carriera del mafioso è giustificata con le condizioni difficili nelle quali si è trovato a vivere, come se non esistesse alcuna alternativa alla vita criminale. Che effettivamente criminale non è: il mafioso fa cose che la legge condanna, ma che sono giuste, perfino doverose nell’ottica del bene della sua famiglia, che è il valore supremo. Il capoclan diventa un modello umano, l’esempio di un uomo che non si è lasciato travolgere dalle circostanze, ma ha preso in mano il suo destino.
+
+Un altro caso che ha fatto discutere è quello di Niko, cantante del genere trap siciliano nipote del boss Salvatore (Turi) Cappello, le cui canzoni e video, che veicolano apertamente messaggi mafiosi – in qualche caso anche con intimidazioni dei suoi detrattori – hanno milioni di visualizzazioni sui social network (Ravveduto, a cura di, 2023, pp. 146 segg.).
+
+## 9.3. Il cinema
+
+Il cinema e, più recentemente, le serie televisive hanno avuto un ruolo decisivo nel modellare l’immaginario collettivo sulla mafia, al punto da influenzare anche l’autorappresentazione degli stessi mafiosi. Il fenomeno nasce con *Il Padrino* di Francis Ford Coppola (1972-1990), una trilogia che ha imposto in tutto il mondo l’idea del mafioso come figura elegante, carismatica, legata a codici d’onore e tradizioni familiari. L’estetica raffinata, i riti d’ingresso, la centralità della famiglia e la drammaticità quasi tragica dei Corleone hanno contribuito a creare un modello identitario che molti boss reali hanno adottato: non sono rari, nelle intercettazioni, riferimenti espliciti a scene del film o alla figura del “don” come archetipo di potere e di autorevolezza. Parallelamente, anche la serie *I Soprano* (1999-2007) ha inciso profondamente sull’immaginario: pur mostrando un boss fragile, nevrotico e contraddittorio, ha fissato con ancora maggiore forza un linguaggio, uno stile e un modo di porsi che hanno influenzato esponenti della criminalità italo-americana e non solo, amplificando il fascino ambiguo della figura del capo.
+
+Accanto a questa linea “mitizzante”, il cinema italiano ha sviluppato una contro-narrazione più realistica e corrosiva. Film come *Il giorno della civetta* o *I cento passi* hanno lavorato per restituire la brutalità quotidiana delle mafie, rompendo la retorica dell’onore e mostrando la loro natura politica ed economica. Il salto decisivo avviene con *Gomorra* di Matteo Garrone (2008) e, ancor più, con la serie *Gomorra – La serie* (2014-2021): qui la camorra appare come un sistema feroce, basato solo su soldi, droga e potere. Paradossalmente, tuttavia, proprio questa rappresentazione iperrealista ha avuto un impatto sulle periferie campane, producendo forme di emulazione nel vestiario, nel linguaggio e persino nelle dinamiche di gruppo: molti giovani legati alla criminalità hanno cominciato a imitare l’abbigliamento, le pose e le battute dei personaggi della serie, trasformando la fiction in un repertorio simbolico da cui attingere.
+
+Un fenomeno simile si osserva con *Suburra* – prima film (2015) poi serie (2017-2020) – che ha offerto un’immagine riconoscibile della criminalità romana, esteticamente curata e intrisa di simboli identitari. Cinema e serie TV agiscono dunque su due livelli: da un lato contribuiscono alla consapevolezza pubblica del problema, denunciando violenze, infiltrazioni e collusioni; dall’altro producono, in alcuni ambienti criminali, un modello estetico e comportamentale che diventa parte dell’autorappresentazione mafiosa. 
+
+## 9. 4. I social network
+
+L’enorme diffusione dei social network e delle piattaforme digitali non manca di avere un impatto significativo sul modo in cui i gruppi criminali si autorappresentano, ostentando la ricchezza ottenuta con le attività illegali, intimidendo i rivali ma anche diventando in qualche modo *influencer* e raccogliendo consenso. Su piattaforme come TikTok accanto ai video che celebrano arresti o scarcerazioni compaiono immagini di lusso e ritualità, montate come micro-narrazioni epiche dal forte potere simbolico. Anche le celebrazioni religiose, come i battesimi, le prime comunioni e i funerali, diventano una occasione per l’ostentazione, sui social network, del lusso e della ricchezza, come anche altre celebrazioni, quali il *gender reveal* (la rivelazione del sesso del nascituro) o il diciottesimo. Il follower viene immerso in un mondo di successo, benché kitsch, che si presenta come desiderabile e che da sé giustifica le partiche criminali necessarie per accedervi. D’altra parte i contenuti, come i *meme*, diffondono messaggi e “valori” propri del mondo mafioso ma condivisi anche da chi non appartiene a gruppi criminali, come la vendetta per un torto subito, l’onore, la difesa della famiglia e l’amore per i figli. Interessante è il modo in cui vengono usati gli *emoji* che accompagnano i contenuti, e che acquistano un significato diverso in ambito mafioso. Come si legge nel primo rapporto *Le mafie nell’era digitale,* “Ogni figura ha un significato diverso in base al destinatario del post. Si creano dei veri e propri sottoinsiemi specifici: se nei contenuti degli utenti di Ponticelli è inserita una fragola si sta dichiarando di essere dalla parte del clan D’Amico il cui soprannome è ‘fraulella’, in italiano fragolina” (Ravveduto, a cura di, 2023, p. 124).
