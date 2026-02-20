@@ -7,7 +7,11 @@ Questo percorso è un Risorsa Educativa Aperta (OER) pensata come integrazione d
 In quanto OER, può essere liberamente usato, riadattato e ridistribuito, rispettando i termini della licenza Creative Commons.  
 È curato da Antonio Vigilante nell'ambito del numero 19 / 2026 di "Educazione Aperta".
 
+```{note}
+**Nota sulla pubblicità**
 
+Questo sito è ospitato su Read the Docs, piattaforma che fornisce gratuitamente strumenti e spazio per la pubblicazione di documentazione e risorse educative. La pubblicità presente serve esclusivamente a sostenere i costi della piattaforma; nessun ricavo deriva all’autore di questo materiale. Il servizio non effettua tracciamenti degli utenti.
+```
 
 ```{toctree}
 :maxdepth: 1
