@@ -6,7 +6,7 @@ Arlacchi P., *La mafia imprenditrice*, il Saggiatore, Milano 2007.
 Bonini C., Foschini G., *Ti mangio il cuore. Nell’abisso del Gargano. Una storia feroce*, Feltrinelli, Milano 2019.  
 Cavadi A. (ed), *A scuola di antimafia*, DG Editore, Trapani 2006.  
 Clemente E., Danieli R., *Orizzonte Scienze Umane*, Sanome/Paravia, Milano-Torino 2016.  
-CROSS (Osservatorio sulla Criminalità Organizzata), *Il clan dei Casamonica. La costruzione di uno speciale potere criminale a Roma Sud-est*, Regione Lazio, 2021, url: [https://www.regione.lazio.it/sites/default/files/2021-07/Il%20Clan%20dei%20Casamonica%20-%20Nando%20Dalla%20Chiesa.pdf](https://www.regione.lazio.it/sites/default/files/2021-07/Il Clan dei Casamonica - Nando Dalla Chiesa.pdf)  
+CROSS (Osservatorio sulla Criminalità Organizzata), *Il clan dei Casamonica. La costruzione di uno speciale potere criminale a Roma Sud-est*, Regione Lazio, 2021, url: [https://www.regione.lazio.it/sites/default/files/2021-07/Il%20Clan%20dei%20Casamonica%20-%20Nando%20Dalla%20Chiesa.pdf](https://www.regione.lazio.it/sites/default/files/2021-07/Il%20Clan%20dei%20Casamonica%20-%20Nando%20Dalla%20Chiesa.pdf)  
 dalla Chiesa, N., *La convergenza. Mafia e politica nella Seconda Repubblica*, Melampo, Milano 2010.  
 dalla Chiesa, N. (a cura di),  *Contro la mafia. I testi classici*, Torino, Einaudi, Torino 2010.   
 dalla Chiesa, N., *L’impresa mafiosa. Tra capitalismo violento e controllo sociale*, Cavallotti University Press, Milano 2012.   
