@@ -21,7 +21,6 @@ Il percorso che qui presento nasce dalla convinzione che uno studio approfondito
 
 Le pagine che seguono nascono da materiale preparato per una mia classe quinta della sezione LES del Liceo “Piccolomini”. Integrano l’apporto della Sociologia e dell’Antropologia, ma presentano anche attività legate alla Metodologia della ricerca e tematiche educative. Possono dunque essere impiegate sia al LES che al LSU. 
 
-Questo percorso è stato creato come  *Open Educational Resource* (OER); è materiale che può e deve essere riutilizzato, modificato, ampliato o, se necessario, ridotto e ridistribuito. Un lavoro che può fare il docente, ma che è auspicabile che faccia tutta la classe. A questo scopo è disponibile nel sito della rivista una cartella compressa con i file di questo percorso in formato Word e LaTeX (per chi ha maggiori competenze tecniche) che le scuole sono invitate a modificare, arricchire e ridistribuire. La licenza con cui questo percorso è rilasciato –  Creative Commons  BY-SA 4.0 ([https://creativecommons.org/licenses/by/4.0/deed.it](https://creativecommons.org/licenses/by/4.0/deed.it)) – pone come unica condizione  l’attribuzione all’autore e la condivisione dell’eventuale opera modificata con la medesima licenza.
 
 [^1]:  MIUR, *Indicazioni Nazionali per i Licei*, Decreto 7 ottobre 2010, n. 211 Allegato G, disponibile su *Normattiva* all url: https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2010-12-13;211.
 

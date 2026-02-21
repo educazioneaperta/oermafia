@@ -35,4 +35,5 @@ bibliografia_essenziale
 sitografia
 laboratorio
 come_usare_questo_percorso
+download
 il_curatore

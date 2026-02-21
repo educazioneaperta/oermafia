@@ -6,6 +6,13 @@ Si ripete spesso una frase attribuita allo scrittore Gesualdo Bufalino: “La ma
 
 I giudici Giovanni Falcone e Paolo Borsellino sono, nell’immaginario collettivo, le figure per eccellenza dell’antimafia: due magistrati integerrimi che hanno pagato con la vita la loro sfida alle cosche. La loro esperienza personale si intreccia con una stagione di innovazione giudiziaria che trasformò radicalmente il contrasto a Cosa nostra. Con il maxi–processo e con l’elaborazione di un metodo investigativo fondato sulla cooperazione tra procure, sulla centralità delle dichiarazioni dei pentiti e sul coordinamento serrato tra forze dell’ordine, Falcone incrinò definitivamente il mito dell’invincibilità dell’organizzazione mafiosa. Borsellino ne condivise l’etica sobria, la visione sistemica e la capacità di leggere la mafia come un potere complesso, capace di infiltrarsi nei gangli economici e politici del Paese. Le stragi del 1992, che li uccisero insieme agli uomini e alle donne delle loro scorte, segnarono non solo la chiusura tragica di quella stagione, ma anche l’inizio di una rivolta morale collettiva, in cui gran parte dell’opinione pubblica comprese la portata della minaccia mafiosa e l’urgenza di difendere lo Stato di diritto.
 
+```{figure} falcone-morvillo.jpg
+:alt: Il giudice Falcone con la moglie Francesca Morvillo. Pubblico dominio.
+:width: 100%
+
+Il giudice Falcone con la moglie Francesca Morvillo. Pubblico dominio.
+```
+
 ### 12.2. Placido Rizzotto
 
 Placido Rizzotto, sindacalista socialista e partigiano, fu una delle figure simbolo della lotta per i diritti dei contadini nelle campagne siciliane del dopoguerra. Nato a Corleone, guidò le occupazioni delle terre incolte e si oppose apertamente al potere mafioso che controllava latifondi e manodopera, entrando presto nel mirino dei boss locali, in particolare della cosca di Luciano Liggio. Il 10 marzo 1948 venne rapito, torturato e assassinato: il suo corpo fu fatto sparire in una foiba della zona e recuperato solo molti decenni dopo, nel 2009, grazie all’impegno ostinato di magistrati e familiari. I suoi assassini uccisero anche un pastore di dodici anni, Giuseppe Letizia, colpevole di averli visti in volto. Dopo aver assistito all’agguato fu preda di forti febbri. Per questo venne portato dal padre in ospedale, dove morì poco dopo; si sospettò che fosse stato avvelenato dai medici per impedirgli di testimoniare quello che aveva visto.
@@ -26,7 +33,7 @@ Sociologo, militante del Sessantotto, fondatore di esperienze comunitarie innova
 
 ### 12.6. Libero Grassi
 
-Imprenditore tessile a Palermo, Libero Grassi decise all’inizio degli anni Novanta di opporsi pubblicamente alle richieste di “pizzo” della mafia, rompendo l’omertà che per decenni aveva soffocato il tessuto produttivo siciliano. In un celebre articolo rivolto direttamente ai suoi estortori, pubblicato nel 1991 sul *Giornale di Sicilia*, dichiarò di non essere disposto a pagare e di voler difendere la sua libertà e la sua dignità personale e professionale. Rimasto isolato da gran parte del mondo imprenditoriale e spesso deriso come “incosciente”, continuò comunque la sua battaglia civile, fiducioso nello Stato e nella possibilità di un’economia liberata dal dominio mafioso. Il 29 agosto 1991 venne assassinato sotto casa da Salvatore Madonia su decisione della cupola di Cosa Nostra. Dopo la sua morta è stata approvata legge 18 febbraio 1992, n. 172 (“legge antiracket”) che istituisce tra l’altro un fondo di sostegno per chi denuncia di essere vittima di estorsioni.
+Imprenditore tessile a Palermo, Libero Grassi decise all’inizio degli anni Novanta di opporsi pubblicamente alle richieste di “pizzo” della mafia, rompendo l’omertà che per decenni aveva soffocato il tessuto produttivo siciliano. In un celebre articolo rivolto direttamente ai suoi estortori, pubblicato nel 1991 sul *Giornale di Sicilia*, dichiarò di non essere disposto a pagare e di voler difendere la sua libertà e la sua dignità personale e professionale. Rimasto isolato da gran parte del mondo imprenditoriale e spesso deriso come “incosciente”, continuò comunque la sua battaglia civile, fiducioso nello Stato e nella possibilità di un’economia liberata dal dominio mafioso. Il 29 agosto 1991 venne assassinato sotto casa da Salvatore Madonia su decisione della cupola di Cosa Nostra. Dopo la sua morte è stata approvata legge 18 febbraio 1992, n. 172 (“legge antiracket”) che istituisce tra l’altro un fondo di sostegno per chi denuncia di essere vittima di estorsioni.
 
 ### 12.5. Don Peppe Diana
 
