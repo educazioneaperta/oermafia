@@ -8,7 +8,7 @@ Nel caso in cui si decida di usare il testo così com’è, si consiglia di usar
 
 Se si desidera modificare il testo ad uso interno, ad esempio sintetizzandolo o tagliando alcune parti, si consiglia di usare il file Word. Il nuovo testo può essere usato internamente senza alcun accorgimento.
 
-Se si possiedono le competenze tecniche, è possibile clonare il repository GitHub del progetto, disponibile all’url [https://github.com/educazioneaperta/oermafia](https://github.com/educazioneaperta/oermafia), modificarlo e pubblicarlo sulla stessa piattaforma GitHub (con GitHub Pages) o sulla stessa piattaforma Read the Docs ([https://app.readthedocs.org](https://app.readthedocs.org)). 
+Se si possiedono le competenze tecniche necessarie, è possibile clonare il repository GitHub del progetto, disponibile all’url [https://github.com/educazioneaperta/oermafia](https://github.com/educazioneaperta/oermafia), modificarlo e pubblicarlo su GitHub (con GitHub Pages) o su Read the Docs ([https://app.readthedocs.org](https://app.readthedocs.org)). 
 
 Se si appresta una versione modificata del testo, con adattamenti o aggiunte, e si decide di diffonderla, occorre attenersi alla licenza Creative Commons BY-SA 4.0. In concreto, significa seguire alcune semplici indicazioni.
 
@@ -27,4 +27,7 @@ Autore: Antonio Vigilante
 Modificato e adattato da:
 Licenza: Creative Commons BY-SA 4.0.
 
-Seguendo queste semplici indicazioni è possibile creare, condividere e far circolare liberamente versioni personalizzate del percorso, mantenendo la tracciabilità dell’opera e contribuendo alla crescita collettiva delle risorse educative aperte.
+Seguendo queste indicazioni è possibile creare, condividere e far circolare liberamente versioni personalizzate del percorso, mantenendo la tracciabilità dell’opera e contribuendo alla crescita collettiva delle risorse educative aperte.
+
+Per comunicare la distribuzione di una nuova versione o per inviare materiale che si desidera far aggiungere al percorso, mandare una mail all’indirizzo redazione.educazioneaperta@gmail.com
+
