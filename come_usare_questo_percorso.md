@@ -22,9 +22,9 @@ Il terzo elemento fondamentale è la condivisione con la stessa licenza. Chi red
 
 Un esempio sintetico di dicitura potrebbe essere:
 
-> Questo materiale deriva dal percorso Studiare le mafie, pubblicato nel numero 19/2026 di “Educazione Aperta” e disponibile sulla piattaforma Read the Docs all’url [https://oermafia.readthedocs.io](https://oermafia.readthedocs.io).  
-Autore: Antonio Vigilante  
-Modificato e adattato da:  
+> Questo materiale deriva dal percorso Studiare le mafie, pubblicato nel numero 19/2026 di “Educazione Aperta” e disponibile sulla piattaforma Read the Docs all’url [https://oermafia.readthedocs.io](https://oermafia.readthedocs.io).<br>  
+Autore: Antonio Vigilante<br>  
+Modificato e adattato da:<br>  
 Licenza: Creative Commons BY-SA 4.0.
 
 Seguendo queste indicazioni è possibile creare, condividere e far circolare liberamente versioni personalizzate del percorso, mantenendo la tracciabilità dell’opera e contribuendo alla crescita collettiva delle risorse educative aperte.
