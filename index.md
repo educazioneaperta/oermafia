@@ -5,7 +5,7 @@
 
 Questo percorso è un Risorsa Educativa Aperta (OER) pensata come integrazione dei manuali di Scienze Umane, nei quali il tema della mafia è quasi del tutto assente.   
 In quanto OER, può essere liberamente usato, riadattato e ridistribuito, rispettando i termini della licenza Creative Commons.  
-È curato da Antonio Vigilante nell'ambito del numero 19 / 2026 di "Educazione Aperta".
+È curato da Antonio Vigilante nell'ambito del [numero 19 / 2026 di "Educazione Aperta"](https://www.educazioneaperta.it/numero-19-2026.html).
 
 ```{note}
 **Nota sulla pubblicità**

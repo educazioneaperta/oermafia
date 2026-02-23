@@ -10,8 +10,8 @@ CROSS (Osservatorio sulla Criminalità Organizzata), *Il clan dei Casamonica. La
 dalla Chiesa, N., *La convergenza. Mafia e politica nella Seconda Repubblica*, Melampo, Milano 2010.  
 dalla Chiesa, N. (a cura di),  *Contro la mafia. I testi classici*, Torino, Einaudi, Torino 2010.   
 dalla Chiesa, N., *L’impresa mafiosa. Tra capitalismo violento e controllo sociale*, Cavallotti University Press, Milano 2012.   
-D’Elia, S., Turco, M., *Tortura democratica. Inchiesta su “La comunità del 41 bis reale”*, Marsilio, Venezia 1999.*  
-*Dickie J., *Cosa nostra. Storia della mafia siciliana*, Laterza, Roma-Bari 2007.  
+D’Elia, S., Turco, M., *Tortura democratica. Inchiesta su “La comunità del 41 bis reale”*, Marsilio, Venezia 1999.  
+Dickie J., *Cosa nostra. Storia della mafia siciliana*, Laterza, Roma-Bari 2007.  
 Dolci, D., *Fare presto (e bene) perché si muore*, De Silva, Torino-Firenze 1954.  
 Falcone, G., Padovani, M., *Cose di Cosa Nostra*, Rizzoli, Milano 1991.  
 Gambetta D., *La mafia elimina la concorrenza. Ma la concorrenza può eliminare la mafia?*, in “Meridiana’’, n.7/8, settembre 1989-gennaio 1990.  
